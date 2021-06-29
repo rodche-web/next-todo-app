@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(80, 80, 255);
+    color: white;
+}
+
+.logo {
+    text-align: center;
+    padding: 10px;
+}

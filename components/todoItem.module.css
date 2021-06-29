@@ -1,0 +1,17 @@
+.item {
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 0 10px;
+}
+
+.delete {
+    background-color: rgb(255, 115, 143);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
